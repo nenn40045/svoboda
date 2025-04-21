@@ -75,7 +75,7 @@
   </section>
 
   
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Free_speech.svg/1024px-Free_speech.svg.png" alt="Свобода слова" style="max-width:100%; height:auto; margin: 20px 0;">
     <ul>
       <li><a href="https://ru.m.wikipedia.org/wiki/Федеральный_закон_№_32-ФЗ_2022_года" target="_blank">• Закон о фейках 2022</a></li>
       <li><a href="https://www.google.com/amp/s/amp.rbc.ru/rbcnews/politics/07/02/2023/63e24abe9a794732e2f81f04" target="_blank">• Закрытие Новой газеты</a></li>
@@ -87,7 +87,7 @@
   </section>
 
   
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Small_business_icon.svg/1024px-Small_business_icon.svg.png" alt="Экономическая свобода" style="max-width:100%; height:auto; margin: 20px 0;">
     <ul>
       <li><a href="https://www.kp.ru/daily/27416/4615969/" target="_blank">• Давление на бизнес</a></li>
       <li><a href="https://www.forbes.ru/milliardery/417729-krome-carya-my-nichego-drugogo-ne-zasluzhili-glavnoe-iz-intervyu-olega-tinkova" target="_blank">• Интервью Олега Тинькова</a></li>
@@ -99,7 +99,7 @@
   </section>
 
   
-    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Privacy_icon.svg" alt="Личная свобода" style="max-width:100%; height:auto; margin: 20px 0;">
     <ul>
       <li><a href="https://deti.gov.ru/Press-Centr/region-news/8661" target="_blank">• Закон о запрете пропаганды</a></li>
       <li><a href="https://www.amnesty.org/en/location/europe-and-central-asia/russia/report-russia/" target="_blank">• Доклад Amnesty International</a></li>
