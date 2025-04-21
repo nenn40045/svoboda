@@ -3,6 +3,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Свобода в современном обществе</title>
   <style>
+    /* Добавленный стиль для скрытия элемента */
+    .hidden-content {
+      display: none;
+    }
+
     body {
       font-family: sans-serif;
       padding: 20px;
@@ -56,6 +61,18 @@
   </style>
 </head>
 <body>
+  <!-- Скрытый контент из картинки -->
+  <div class="hidden-content">
+    [file name]: 1000009767.png
+    [file content begin]
+    svoboda
+
+    <!DOCTYPE html><html lang="ru"></head>
+
+    </head>
+    [file content end]
+  </div>
+
   <h1>Свобода в современном обществе</h1>
   
   <div class="notice">
