@@ -49,13 +49,20 @@
   </style>
 </head>
 <body>
-  <h1>Свобода в современном обществе</h1>  <section>
+  <nav style="background:#fff; border-bottom:1px solid #ccc; padding:10px 0; margin-bottom:20px; position:sticky; top:0; z-index:1000;">
+    <a href="#intro" style="margin-right:15px;">Введение</a>
+    <a href="#freedom-speech" style="margin-right:15px;">Свобода слова</a>
+    <a href="#economic" style="margin-right:15px;">Экономическая</a>
+    <a href="#personal" style="margin-right:15px;">Личная свобода</a>
+    <a href="#sources" style="margin-right:15px;">Источники</a>
+  </nav>
+  <h1>Свобода в современном обществе</h1>  <section id="intro">
     <h2>Введение</h2>
     <p>Свобода — одна из важнейших концепций, формирующих социокультурные и правовые основы общества. В условиях глобализации и технологического прогресса её значение продолжает эволюционировать. Свобода влияет на личную идентичность, демократические институты, правовое государство и социальную ответственность. В данной работе исследуется, как свобода воздействует на развитие общества, государства, социальные отношения и культурный контекст.</p>
   </section>  <section>
     <h2>Исторические корни свободы</h2>
     <p>Понимание свободы восходит к античности. В Древней Греции свобода рассматривалась как способность жить согласно разуму и участвовать в политической жизни. Философы, такие как Сократ и Платон, обсуждали понятие внутренней свободы как нравственного выбора. В Новое время идеи свободы нашли отражение в таких документах, как Декларация независимости США (1776), Билль о правах (1791), а также во Французской декларации прав человека и гражданина (1789).</p>
-  </section>  <section>
+  </section>  <section id="freedom-speech">
     <h2>1. Свобода слова</h2>
     <ul>
       <li><a href="https://ru.m.wikipedia.org/wiki/Федеральный_закон_№_32-ФЗ_2022_года" target="_blank">• Закон о фейках 2022</a></li>
@@ -63,9 +70,9 @@
       <li><a href="https://nonews.co/directory/lists/countries/worldwide-press-freedom-index" target="_blank">• Рейтинг свободы прессы</a></li>
     </ul>
     <p>Свобода слова — это важный индикатор демократического развития общества. В современной России ряд законов, таких как <a href="https://ru.m.wikipedia.org/wiki/Федеральный_закон_№_32-ФЗ_2022_года" target="_blank">закон о фейках</a>, вызвали общественные споры о допустимых границах выражения мнения. Дополнительно, <a href="https://www.google.com/amp/s/amp.rbc.ru/rbcnews/politics/07/02/2023/63e24abe9a794732e2f81f04" target="_blank">закрытие Новой газеты</a> и падение России в <a href="https://nonews.co/directory/lists/countries/worldwide-press-freedom-index" target="_blank">рейтинге свободы прессы</a> (на 164 месте по данным Reporters Without Borders) говорят о системном сужении пространства для независимой журналистики.</p>
-    <p>Сегодня даже упоминание о несогласии с официальной позицией может быть воспринято как угроза государству. Это приводит к росту самоцензуры — люди осознанно ограничивают себя в высказываниях, опасаясь последствий.</p>
-    <p>Интернет и блогосфера стали новыми аренами для самовыражения, но и здесь усиливается контроль.</p>
-  </section>  <section>
+    <p><blockquote style="border-left: 4px solid #007acc; padding-left: 10px; margin: 1em 0; background: #eef6fb;"></blockquote>. Это приводит к росту <blockquote style="border-left: 4px solid #007acc; padding-left: 10px; margin: 1em 0; background: #eef6fb;"></blockquote>.</p>
+    <p><blockquote style="border-left: 4px solid #007acc; padding-left: 10px; margin: 1em 0; background: #eef6fb;"></blockquote>.</p>
+  </section>  <section id="economic">
     <h2>2. Экономическая свобода</h2>
     <ul>
       <li><a href="https://www.kp.ru/daily/27416/4615969/" target="_blank">• Давление на бизнес</a></li>
@@ -73,9 +80,9 @@
       <li><a href="https://www.google.com/amp/s/amp.rbc.ru/rbcnews/finances/27/12/2021/61c5aa4b9a79475f312d6eba" target="_blank">• Контроль ЦБ над банками</a></li>
     </ul>
     <p>Экономическая свобода зависит от правовой защищённости бизнеса. Многие предприниматели сталкиваются с <a href="https://www.kp.ru/daily/27416/4615969/" target="_blank">давлением со стороны проверяющих органов</a>. Как отметил <a href="https://www.forbes.ru/milliardery/417729-krome-carya-my-nichego-drugogo-ne-zasluzhili-glavnoe-iz-intervyu-olega-tinkova" target="_blank">Олег Тиньков</a> в своём интервью, в России «бизнес — не про свободу, а про выживание».</p>
-    <p>Там, где государство вмешивается в рынок без системы сдержек и противовесов, частная инициатива теряет смысл. Экономическая активность замирает, а предприниматели уходят в тень.</p>
+    <p><blockquote style="border-left: 4px solid #007acc; padding-left: 10px; margin: 1em 0; background: #eef6fb;"></blockquote>. Экономическая активность замирает, а предприниматели уходят в тень.</p>
     <p>Ужесточение <a href="https://www.google.com/amp/s/amp.rbc.ru/rbcnews/finances/27/12/2021/61c5aa4b9a79475f312d6eba" target="_blank">контроля со стороны ЦБ</a> также воспринимается как ограничение экономических прав граждан.</p>
-  </section>  <section>
+  </section>  <section id="personal">
     <h2>3. Личная свобода</h2>
     <ul>
       <li><a href="https://deti.gov.ru/Press-Centr/region-news/8661" target="_blank">• Закон о запрете пропаганды</a></li>
@@ -83,7 +90,7 @@
       <li><a href="https://www.forbes.ru/forbes-woman/497818-priznannuu-inoagentom-hudoznicu-uliu-cvetkovu-zaocno-arestovali-i-ob-avili-v-rozysk" target="_blank">• Дело Юлии Цветковой</a></li>
     </ul>
     <p>Личная свобода — это не только право на частную жизнь, но и защита самовыражения. <a href="https://deti.gov.ru/Press-Centr/region-news/8661" target="_blank">Закон о запрете пропаганды нетрадиционных отношений</a> ограничил публичные выступления ЛГБТ+. <a href="https://www.amnesty.org/en/location/europe-and-central-asia/russia/report-russia/" target="_blank">Доклад Amnesty International 2023 года</a> подчеркивает, что в России усилилась слежка и давление на активистов.</p>
-    <p>Личность без права на выбор утрачивает чувство собственного достоинства. Наступление на личную свободу — это угроза индивидуальной автономии.</p>
+    <p><blockquote style="border-left: 4px solid #007acc; padding-left: 10px; margin: 1em 0; background: #eef6fb;"></blockquote>. Наступление на личную свободу — это угроза индивидуальной автономии.</p>
     <p>Особенно показателен случай <a href="https://www.forbes.ru/forbes-woman/497818-priznannuu-inoagentom-hudoznicu-uliu-cvetkovu-zaocno-arestovali-i-ob-avili-v-rozysk" target="_blank">Юлии Цветковой</a>, художницы, преследуемой за свои взгляды.</p>
     <p>На момент редактирования сайта ЛГБТК+ сообщества официально признаны экстремистскими организациями на территории РФ.</p>
   </section>  <section>
@@ -95,7 +102,7 @@
   </section>  <section>
     <h2>Современное понимание свободы</h2>
     <p>Сегодня свобода включает и цифровую сферу: право на приватность, анонимность, свободу интернета. Глобализация поставила под сомнение универсальность ценностей — свобода в США, Иране и Китае понимается по-разному. Всё чаще возникают споры: где заканчивается свобода одного и начинается безопасность другого?</p>
-  </section>  <section>
+  </section>  <section id="sources">
     <h2>Список источников</h2>
     <ul>
       <li><a href="https://cyberleninka.ru/article/n/svoboda-kak-sotsialnaya-tsennost">Свобода как социальная ценность — Cyberleninka</a></li>
