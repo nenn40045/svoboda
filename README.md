@@ -7,24 +7,20 @@
   <title>Свободы</title>
   <style>
     body {
-      font-family: sans-serif;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    h1 {
-      font-size: 24px;
-      margin-top: 30px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    a {
-      color: blue;
-      text-decoration: underline;
-    }
+    header {
+  background: linear-gradient(to right, #1f2937, #4b5563);
+  padding: 20px;
+  text-align: center;
+  border-bottom: 4px solid #10b981;
+}
+
+header h1 {
+  color: white;
+  font-size: 28px;
+  font-family: 'Arial Black', sans-serif;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+  margin: 0;
+}
   </style>
 </head>
 <body>
