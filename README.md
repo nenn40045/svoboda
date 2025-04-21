@@ -53,11 +53,6 @@
       margin: 20px 0;
       font-size: 0.9em;
     }
-    .article-title {
-      font-weight: bold;
-      font-style: italic;
-      margin: 15px 0 5px;
-    }
   </style>
 </head>
 <body>
@@ -88,9 +83,7 @@
     </ul>
     <p>Свобода слова — это важный индикатор демократического развития общества. В современной России ряд законов, таких как <a href="https://ru.m.wikipedia.org/wiki/Федеральный_закон_№_32-ФЗ_2022_года" target="_blank">закон о фейках</a>, вызвали общественные споры о допустимых границах выражения мнения. Дополнительно, <a href="https://www.google.com/amp/s/amp.rbc.ru/rbcnews/politics/07/02/2023/63e24abe9a794732e2f81f04" target="_blank">закрытие Новой газеты</a> и падение России в <a href="https://nonews.co/directory/lists/countries/worldwide-press-freedom-index" target="_blank">рейтинге свободы прессы</a> (на 164 месте по данным Reporters Without Borders) говорят о системном сужении пространства для независимой журналистики.</p>
     
-    <div class="article-title">
-      <a href="https://rtvi.com/news/rossiyanku-osudili-za-ukrainskij-stih-i-diskreditacziyu-armii-v-intervyu/" target="_blank">"Россиянку осудили за украинский стих и дискредитацию армии в интервью"</a>
-    </div>
+    <p><strong>Обоснование:</strong> <a href="https://rtvi.com/news/rossiyanku-osudili-za-ukrainskij-stih-i-diskreditacziyu-armii-v-intervyu/" target="_blank">"Россиянку осудили за украинский стих и дискредитацию армии в интервью"</a></p>
     
     <p>Сегодня даже упоминание о несогласии с официальной позицией может быть воспринято как угроза государству. Это приводит к росту самоцензуры — люди осознанно ограничивают себя в высказываниях, опасаясь последствий.</p>
     <p>Интернет и блогосфера стали новыми аренами для самовыражения, но и здесь усиливается контроль.</p>
@@ -105,9 +98,7 @@
     </ul>
     <p>Экономическая свобода зависит от правовой защищённости бизнеса. Многие предприниматели сталкиваются с <a href="https://www.kp.ru/daily/27416/4615969/" target="_blank">давлением со стороны проверяющих органов</a>. Как отметил <a href="https://www.forbes.ru/milliardery/417729-krome-carya-my-nichego-drugogo-ne-zasluzhili-glavnoe-iz-intervyu-olega-tinkova" target="_blank">Олег Тиньков</a> в своём интервью, в России «бизнес — не про свободу, а про выживание».</p>
     
-    <div class="article-title">
-      <a href="https://www.forbes.ru/biznes/447339-vysokie-nalogi-i-davlenie-gosudarstva-biznes-v-rossii-nazval-glavnye-problemy" target="_blank">"Высокие налоги и давление государства: бизнес в России назвал главные проблемы"</a>
-    </div>
+    <p><strong>Обоснование:</strong> <a href="https://www.forbes.ru/biznes/447339-vysokie-nalogi-i-davlenie-gosudarstva-biznes-v-rossii-nazval-glavnye-problemy" target="_blank">"Высокие налоги и давление государства: бизнес в России назвал главные проблемы"</a></p>
     
     <p>Там, где государство вмешивается в рынок без системы сдержек и противовесов, частная инициатива теряет смысл. Экономическая активность замирает, а предприниматели уходят в тень.</p>
     <p>Ужесточение <a href="https://www.google.com/amp/s/amp.rbc.ru/rbcnews/finances/27/12/2021/61c5aa4b9a79475f312d6eba" target="_blank">контроля со стороны ЦБ</a> также воспринимается как ограничение экономических прав граждан.</p>
@@ -141,4 +132,9 @@
   </section>
 
   <section>
-    <h2>Спис
+    <h2>Список источников</h2>
+    <ul>
+      <li><a href="https://cyberleninka.ru/article/n/svoboda-kak-sotsialnaya-tsennost">Свобода как социальная ценность — Cyberleninka</a></li>
+      <li><a href="https://studfile.net/preview/1995952/">Свобода в философии — Studfile.net</a></li>
+      <li><a href="https://constitution.ru/">Конституция РФ</a></li>
+      <li><a href="https://www.hrw.org/world-report/2023">Human Rights Watch World Report 2023</a></li
