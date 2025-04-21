@@ -1,4 +1,4 @@
-#Свобода в России 
+#Свобода в России
 <!DOCTYPE html><html lang="ru">
 <head>
   <meta charset="UTF-8">
@@ -41,6 +41,13 @@
       margin-top: 40px;
       padding-top: 10px;
     }
+    .disclaimer {
+      font-size: 0.8em;
+      color: #888;
+      margin-top: 30px;
+      border-top: 1px dashed #ccc;
+      padding-top: 10px;
+    }
   </style>
 </head>
 <body>
@@ -71,8 +78,11 @@
       <li><a href="https://www.forbes.ru/forbes-woman/497818-priznannuu-inoagentom-hudoznicu-uliu-cvetkovu-zaocno-arestovali-i-ob-avili-v-rozysk" target="_blank">• Дело Юлии Цветковой</a></li>
     </ul>
     <p>Личная свобода — это не только право на частную жизнь, но и защита самовыражения. <a href="https://deti.gov.ru/Press-Centr/region-news/8661" target="_blank">Закон о запрете пропаганды нетрадиционных отношений</a> ограничил публичные выступления ЛГБТ+. <a href="https://www.amnesty.org/en/location/europe-and-central-asia/russia/report-russia/" target="_blank">Доклад Amnesty International 2023 года</a> подчеркивает, что в России усилилась слежка и давление на активистов. Особенно показателен случай <a href="https://www.forbes.ru/forbes-woman/497818-priznannuu-inoagentom-hudoznicu-uliu-cvetkovu-zaocno-arestovali-i-ob-avili-v-rozysk" target="_blank">Юлии Цветковой</a>, художницы, преследуемой за свои взгляды.</p>
+    <p>На момент редактирования сайта ЛГБТК+ сообщества официально признаны экстремистскими организациями на территории РФ.</p>
   </section>  <div class="footnote">
     * Юлия Цветкова официально признана иноагентом в РФ.
+  </div>  <div class="disclaimer">
+    Дисклеймер: данный сайт создан исключительно в ознакомительных целях. Автор не имеет цели дискредитации каких-либо органов власти. Вся информация основана на открытых источниках, доступных каждому, у кого есть доступ к сети Интернет.
   </div>
 </body>
 </html>
