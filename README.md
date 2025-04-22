@@ -10,6 +10,7 @@
       padding: 20px;
       line-height: 1.6;
       background-color: #f9f9f9;
+      margin: 0;
     }
     h1, h2 {
       color: #2c3e50;
